@@ -48,6 +48,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyan-25174600018&theme=tokyo-night"/>
 
+## ⏱ Languages Over Last 7 Days
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 👀 Visitors
 
