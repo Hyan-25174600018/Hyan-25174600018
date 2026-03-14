@@ -15,13 +15,18 @@
 
 ---
 
-### 🚀 Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode" />
-</p>
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/961503700248043520)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanng.9102007@gmail.com)
 
 ---
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats
 
