@@ -36,17 +36,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyan-25174600018&theme=tokyo-night&hide_border=true"/>
 
----
-
-## ⏱ Languages Over Last 7 Days
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hyan-25174600018&color=blue" />
-</p>
