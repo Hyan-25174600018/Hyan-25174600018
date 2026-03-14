@@ -28,27 +28,26 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 My Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hyan-25174600018&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hyan-25174600018&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyan-25174600018&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyan-25174600018&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </p>
-
----
-
-### 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Hyan-25174600018&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Hyan-25174600018&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+## ⏱ Weekly Coding Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyan-25174600018&theme=tokyo-night"/>
+
 
 ### 👀 Visitors
 
